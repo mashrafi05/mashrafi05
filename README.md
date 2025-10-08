@@ -1,44 +1,103 @@
-<h1 align="center">Hi 👋, I'm Ali Sadman Mashrafi</h1>
-<h3 align="center">"Computer Science Enthusiast | Building Projects and Exploring Technology"</h3>
+<!-- =========================
+     ALI SADMAN MASHRAFI | PROFESSIONAL README
+     ========================= -->
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mashrafi05&label=Profile%20views&color=0e75b6&style=flat" alt="mashrafi05" /> 
+<h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Ali Sadman Mashrafi</span></h1>
+<h3 align="center">🚀 Computer Science Enthusiast | Passionate about Coding, Machine Learning & Innovation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mashrafi05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently studying at **Leading University**
+---
 
-- 🌱 Currently pursuing **my undergraduate studies in Computer Science and Engineering (CSE)**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **mashrafi2019new@gmail.com**
+- 🎓 I’m currently studying at **Leading University**  
+- 💻 Pursuing my **B.Sc. in Computer Science and Engineering (CSE)**  
+- 🤖 Exploring the fields of **Machine Learning, Data Science, and Software Development**  
+- 📫 Reach me at: **mashrafi2019new@gmail.com**  
+- ⚡ Fun fact: *I love learning new tech while listening to Lo-fi beats 🎧*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-shadman-mashrafi-4ab8971bb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Shadman Mashrafi" height="30" width="40" />
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-shadman-mashrafi-4ab8971bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/md.mashrafi.940" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali Shadman Mashrafi" height="30" width="40" />
+  <a href="https://www.facebook.com/md.mashrafi.940" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://codeforces.com/profile/mashraficse" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mashrafi CSE" height="30" width="40" />
+  <a href="https://codeforces.com/profile/mashraficse" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23FF6600.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://www.instagram.com/chowdhury_mashrafi?igshid=MXVzdHd5aXNxOXo5cQ==" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chowdhury_mashrafi" height="30" width="40" />
+  <a href="https://www.instagram.com/chowdhury_mashrafi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+---
+
+### 🧠 Languages & Tools
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashrafi05&show_icons=true&theme=tokyonight&hide_border=true" alt="Mashrafi's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrafi05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🎯 Currently Working On
+
+- 💡 Building beginner-to-advanced **Python & ML Projects**
+- 🔍 Exploring **IoT & Data Analytics**
+- 📘 Enhancing my **problem-solving skills** on competitive platforms
+
+---
+
+<h3 align="center">✨ “Code. Create. Innovate.” ✨</h3>
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="300" />
 </p>
