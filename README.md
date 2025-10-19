@@ -16,7 +16,6 @@
 - 🎓 I’m currently studying at **Leading University**  
 - 💻 Pursuing my **B.Sc. in Computer Science and Engineering (CSE)**  
 - 🤖 Exploring the fields of **Machine Learning, Data Science, and Software Development**  
-- 📫 Reach me at: **mashrafi2019new@gmail.com**  
 - ⚡ Fun fact: *I love learning new tech while listening to Lo-fi beats 🎧*
 
 ---
