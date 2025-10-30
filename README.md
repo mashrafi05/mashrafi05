@@ -1,13 +1,16 @@
-<!-- =========================
-     ALI SADMAN MASHRAFI | PROFESSIONAL README
-     ========================= -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Ali Sadman Mashrafi</span></h1>
-<h3 align="center">🚀 Computer Science Enthusiast | Passionate about Coding, Machine Learning & Innovation</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Ali+Sadman+Mashrafi" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mashrafi05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  🚀 Computer Science Enthusiast | Passionate about Coding, Data Science & Innovation
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mashrafi05&label=Profile%20views&color=007ACC&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 
 ---
 
